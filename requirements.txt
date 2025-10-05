@@ -1,6 +1,4 @@
 livekit-agents
-#livekit-plugins-openai
-#livekit-plugins-silero
 livekit-plugins-google
 livekit-plugins-noise-cancellation
 langchain_community
@@ -10,4 +8,5 @@ gspread
 google-auth
 python-dateutil
 dateparser
+
 
