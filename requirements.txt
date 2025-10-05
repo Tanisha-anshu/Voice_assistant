@@ -1,0 +1,13 @@
+livekit-agents
+#livekit-plugins-openai
+#livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+langchain_community
+requests
+python-dotenv
+gspread
+google-auth
+python-dateutil
+dateparser
+
