@@ -15,7 +15,7 @@ This assistant can:
 
 Built for realtime, low-latency interaction — just like talking to a real hotel receptionist!
 
-🧩 Features
+# Features
 
 Multilingual voice assistant (English / Hindi / Hinglish)
 
@@ -57,13 +57,15 @@ python -m venv .venv
 
 .venv\Scripts\activate      # On Windows
 
-# or
+or
 
 source .venv/bin/activate   # On Mac/Linux
+
 
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
+
 
 3️⃣ Configure Environment Variables
 
@@ -92,6 +94,7 @@ If using Google Sheets:
 
 Place your service account JSON key file in the same folder (e.g. service_account.json)
 Share your Google Sheet with the service account email address
+
 
 4️⃣ Run the Assistant (Console Mode)
 
